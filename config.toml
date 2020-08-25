@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://2cloudlab.github.io/slzheng/"
 languageCode = "en-us"
 title = "Cloud Labs"
 theme = "hugo-ink"

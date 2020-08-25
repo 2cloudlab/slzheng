@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cloud Labs</title>
-    <link>http://example.org/tags/</link>
+    <link>https://2cloudlab.github.io/slzheng/tags/</link>
     <description>Recent content in Tags on Cloud Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://2cloudlab.github.io/slzheng/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>css</title>
-      <link>http://example.org/tags/css/</link>
+      <link>https://2cloudlab.github.io/slzheng/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/css/</guid>
+      <guid>https://2cloudlab.github.io/slzheng/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://example.org/tags/html/</link>
+      <link>https://2cloudlab.github.io/slzheng/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/html/</guid>
+      <guid>https://2cloudlab.github.io/slzheng/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://example.org/tags/markdown/</link>
+      <link>https://2cloudlab.github.io/slzheng/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/markdown/</guid>
+      <guid>https://2cloudlab.github.io/slzheng/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://example.org/tags/themes/</link>
+      <link>https://2cloudlab.github.io/slzheng/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/themes/</guid>
+      <guid>https://2cloudlab.github.io/slzheng/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Procrastinating</title>
-      <link>http://example.org/tags/procrastinating/</link>
+      <link>https://2cloudlab.github.io/slzheng/tags/procrastinating/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>http://example.org/tags/procrastinating/</guid>
+      <guid>https://2cloudlab.github.io/slzheng/tags/procrastinating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Space</title>
-      <link>http://example.org/tags/space/</link>
+      <link>https://2cloudlab.github.io/slzheng/tags/space/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
       
-      <guid>http://example.org/tags/space/</guid>
+      <guid>https://2cloudlab.github.io/slzheng/tags/space/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lambda function</title>
-      <link>http://example.org/tags/lambda-function/</link>
+      <link>https://2cloudlab.github.io/slzheng/tags/lambda-function/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://example.org/tags/lambda-function/</guid>
+      <guid>https://2cloudlab.github.io/slzheng/tags/lambda-function/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Serverless</title>
-      <link>http://example.org/tags/serverless/</link>
+      <link>https://2cloudlab.github.io/slzheng/tags/serverless/</link>
       <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
       
-      <guid>http://example.org/tags/serverless/</guid>
+      <guid>https://2cloudlab.github.io/slzheng/tags/serverless/</guid>
       <description></description>
     </item>
     
