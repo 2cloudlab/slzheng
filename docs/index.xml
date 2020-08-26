@@ -13,12 +13,13 @@
     
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>https://2cloudlab.github.io/slzheng/about/</link>
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
       <guid>https://2cloudlab.github.io/slzheng/about/</guid>
-      <description>This is some static page where you can write about yourself.</description>
+      <description>Who I am Hi, this is Silong Zheng from China, a software programmer who would like to learn, practice and share best practices about software development.
+Where to find me  Twitter github LinkedIn Email: freshairfreshlive@gmail.com  What I interest Cloud Computing is essential infrastructures for boosting digital world, but you have to smartly leverage these infrastructures to craft digital services. I&#39;m interested in helping companies develop high-quality software products with lower costs by using Cloud-Native technique.</description>
     </item>
     
     <item>
