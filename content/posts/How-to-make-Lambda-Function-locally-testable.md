@@ -1,9 +1,11 @@
 ---
-title: "How to design Unit Tests for your Lambda Functions"
+title: "How to make Lambda Function locally testable?"
 date: 2018-03-18T02:01:58+05:30
 description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
 tags: [Serverless, Lambda function]
 ---
+
+AWS Lambda is a **lightweight-compute** platform where you can provision many compute instances to run functions concurrently. A function is a code snippet written in many program languages such as Go, Python, Node JS, Java etc.
 
 You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
 
