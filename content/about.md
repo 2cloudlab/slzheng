@@ -6,7 +6,7 @@ type: "page"
 
 ### Who I am
 
-Hi, this is **Silong Zheng** from China, a software programmer who would like to learn, practice and share best practices about software development.
+Hi, this is **Silong Zheng** from Shanghai, China, a software programmer who would like to learn, practice and share best practices about software development.
 
 ### Where to find me
 
